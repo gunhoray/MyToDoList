@@ -1,0 +1,116 @@
+.centered-container {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wholebox {
+  max-width: 1200px;
+  min-width: 800px;
+  border-style: solid;
+  border-width: 6px;
+
+}
+
+.title {
+  background-color: black;
+  border-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 100px;
+  border-width: 6px;
+  border-style: solid;
+  margin: 0;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 15px;
+}
+
+.inputsection {
+  display: flex;
+  align-items: center;
+  font-family: Helvetica;
+  font-size: 15px;
+  padding-left: 5px;
+  border-width: 6px;
+  border-style: solid;
+  font-weight: bold;
+}
+
+input[type=text] {
+  width: 40%;
+  padding: 5px 5px;
+  border: none;
+  background-color: black;
+  color: white;
+  margin: 3px;
+  font-family: Helvetica;
+  font-size: 20px;
+
+}
+
+.addbutton {
+  background-color: black;
+  border: solid;
+  border-color: black;
+  color: white;
+  font-size: 35px;
+
+ 
+}
+
+.workbutton {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  margin: 5px;
+  width: 48%;
+  
+}
+
+.inprogressbox {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 30px;
+  padding-bottom: 5px;
+  border-width: 6px;
+  border-style: solid;
+  font-weight: bold;
+}
+
+.completedbox {
+  padding-bottom: 5px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 30px;
+  border-width: 6px;
+  border-style: solid;
+  font-weight: bold;
+}
+
+.post-style {
+  background-color: black;
+  color: white;
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight: bold;
+  border-color: black;
+  border-width: 6px;
+  border-style: solid;
+
+}
+
+.contentsize{
+  font-family: Helvetica;
+  font-size: 20px;
+
+}
+
+.workbuttonbox{
+  text-align: center;
+}
