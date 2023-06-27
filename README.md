@@ -4,9 +4,9 @@
 ##### by gunhoray using Javascript, React, Html, css
 
 ## assignments of this project
-  * 컴포넌트와 리액트 훅 요소를 다룰 수 있어요.
-  * 이벤트를 관리할 수 있어요.
-  * vercel을 이용해 리액트 사이트를 배포할 수 있어요.
+  * 컴포넌트와 리액트 훅 요소 다루기
+  * 이벤트를 관리
+  * vercel을 이용해 리액트 사이트 배포
 
 ## funtions of this project
   * 문자타입 제목, 컨텐츠 기입
