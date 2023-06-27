@@ -1,7 +1,7 @@
 <img width="1666" alt="Screenshot 2023-06-27 at 10 48 11 AM" src="https://github.com/gunhoray/MyToDoList/assets/88648468/54c6ad44-1ee9-4b1a-bada-c75be4e46619">
 
 # MY TO-DO LIST 
-#### by gunhoray
+##### by gunhoray
 
 ## assignment of this project
   * 컴포넌트와 리액트 훅 요소를 다룰 수 있어요.
@@ -72,6 +72,19 @@
      * for key={postinput.id}, {postinput.title}, {postinput.content}, button DELETE & NOT COMPLETED
 
 * App.css
+  * centered-container : to make whole section centered
+  * wholebox : contain whole elements
+  * title : "MY TO-DO LIST"
+  * subtitle : "react"
+  * inputsection : section of TITLE & CONTENT inputs
+  * input[type=text] : TITLE & CONTENT inputs
+  * addbutton : +
+  * workbutton : DELETE & COMPLETED & NOT COMPLETED buttons
+  * inprogressbox : in progress...
+  * completedbox : completed
+  * post-style : posts from posts.map & doneposts.map
+  * contentsize : {postinput.content}
+  * workbuttonbox : contain workbuttons
   
 
 
