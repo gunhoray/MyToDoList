@@ -3,10 +3,17 @@
 # MY TO-DO LIST 
 ##### by gunhoray
 
-## assignment of this project
+## assignments of this project
   * 컴포넌트와 리액트 훅 요소를 다룰 수 있어요.
   * 이벤트를 관리할 수 있어요.
   * vercel을 이용해 리액트 사이트를 배포할 수 있어요.
+
+## funtions of this project
+  * 문자타입 제목, 컨텐츠 기입
+  * in progress...와 completed으로 to-do post의 진행상황을 분리한 구조
+  * Add, delete, completed, not completed 버튼 기능들 구현
+  * alert로 delete에 대한 confirm
+  * alert로 빈값 추가에 대한 거부
 
 ## blueprint of the project
 
