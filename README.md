@@ -1,7 +1,7 @@
 <img width="1666" alt="Screenshot 2023-06-27 at 10 48 11 AM" src="https://github.com/gunhoray/MyToDoList/assets/88648468/54c6ad44-1ee9-4b1a-bada-c75be4e46619">
 
 # MY TO-DO LIST 
-##### by gunhoray
+##### by gunhoray using Javascript, React, Html, css
 
 ## assignments of this project
   * 컴포넌트와 리액트 훅 요소를 다룰 수 있어요.
