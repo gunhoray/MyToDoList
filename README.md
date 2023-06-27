@@ -92,7 +92,15 @@
   * post-style : posts from posts.map & doneposts.map
   * contentsize : {postinput.content}
   * workbuttonbox : contain workbuttons
-  
+
+## Difficulties encountered during this project
+* Making decisions on what were needed to be state : title, content, posts, doneposts
+* storing input data by using "event" & "event.target.value" ⭐️
+* setting up conditions like alert(to verify empty input) & window.confirm(asking confirmation to delete)
+* moving posts(data) from "in progress" to "completed" by using .find() & .filter()
+* completing UI design with CSS ⭐️
+* why input needs onChange?
+* seperating <Inprogress /> and <Completed />, connecting them altogether (use of Destructuring Assignment:구조 분해 할당)⭐️
 
 
 
