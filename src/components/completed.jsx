@@ -4,7 +4,7 @@ const Completed = ({postinput, donedeleteHandler, backtoprogress}) =>{
       <div>  
       {postinput.title}
       </div>
-      <div>
+      <div className='contentsize'>
         {postinput.content}
       </div>
       <div className="workbuttonbox">
