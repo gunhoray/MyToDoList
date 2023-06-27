@@ -50,7 +50,7 @@
         * set the updatePosts in posts by setPosts
         * add selectedPost to doneposts by setDoneposts
           
-     * backtoprogress
+     * backtoprogress : click action to send back selected post to "in progress..." section
         * selectedcompleted : from doneposts find selected cancelcomplete.id that matches id parameter
         * updatebackPosts : filter the selectedcompleted from doneposts
         * than selectedcompleted.isdone is false
