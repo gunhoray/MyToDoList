@@ -101,6 +101,7 @@
 * completing UI design with CSS ⭐️
 * why input needs onChange? to listen to an input’s change in value by providing the attribute onchange.
 * seperating <Inprogress /> and <Completed />, connecting them altogether (use of Destructuring Assignment:구조 분해 할당)⭐️
+* Am i using boolean type "isdone" well enough? How "isdone" is used in my code? ⭐️
 
 
 
